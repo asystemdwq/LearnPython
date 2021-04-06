@@ -20,7 +20,7 @@ import time
 LDAP_HOST="10.1.10.1"
 LDAP_PORT=389
 LDAP_USER="michaeladmin"
-LDAP_PASS="Init_8852"
+LDAP_PASS="********"
 PwdWarnDays = 14
 PwdMaxAge = 90
 
